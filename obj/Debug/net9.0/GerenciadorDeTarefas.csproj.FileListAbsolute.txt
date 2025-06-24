@@ -1,0 +1,14 @@
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\bin\Debug\net9.0\GerenciadorDeTarefas.exe
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\bin\Debug\net9.0\GerenciadorDeTarefas.deps.json
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\bin\Debug\net9.0\GerenciadorDeTarefas.runtimeconfig.json
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\bin\Debug\net9.0\GerenciadorDeTarefas.dll
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\bin\Debug\net9.0\GerenciadorDeTarefas.pdb
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.dll
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\refint\GerenciadorDeTarefas.dll
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.pdb
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\GerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Projetos - Ezequie\Gerenciador de Tarefas\GerenciadorDeTarefas\obj\Debug\net9.0\ref\GerenciadorDeTarefas.dll
