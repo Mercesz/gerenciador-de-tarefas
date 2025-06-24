@@ -30,3 +30,10 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/Mercesz/gerenciador-de-tarefas.git
+
+Navegue até a pasta do projeto:
+cd gerenciador-de-tarefas
+
+Execute o projeto:
+dotnet run
+
